@@ -371,7 +371,7 @@ elif page == "ℹ️ À propos":
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: gray;'>"
-    "Loan Approval Predictor © 2025 | Application de prédiction de prêts"
+    "Loan Approval Predictor © 2025 Rayeh Riad PHD univ of saida | Application de prédiction de prêts"
     "</div>",
     unsafe_allow_html=True
 )
